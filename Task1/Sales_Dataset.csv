@@ -1,0 +1,104 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Quantity,Unit_Price,Sales,Region,Payment_Method
+ORD0001,2026-04-03,Neha Sharma,Desk Chair,Furniture,4.0,7500.0,30000,North,Bank Transfer
+ORD0002,2026-03-16,Neha Sharma,Desk Chair,Furniture,2.0,7500.0,15000,North,UPI
+ORD0003,2026-05-30,Vikram Gupta,Office Desk,Furniture,3.0,11000.0,33000,South,UPI
+ORD0004,2026-07-11,Vikram Gupta,Printer,Electronics,2.0,9000.0,18000,North,UPI
+ORD0005,2026-03-30,Aarav Sharma,USB Drive,Accessories,6.0,700.0,4200,East,Debit Card
+ORD0006,2026-07-07,Rahul Verma,USB Drive,Accessories,4.0,700.0,2800,West,UPI
+ORD0007,2026-02-20,Rohit Khan,Webcam,Electronics,3.0,3500.0,10500,North,Cash
+ORD0008,2026-05-12,,Desk Chair,Furniture,2.0,7500.0,15000,West,Credit Card
+ORD0009,2026-03-31,Vikram Gupta,USB Drive,Accessories,1.0,700.0,700,South,UPI
+ORD0010,2026-01-08,Rahul Verma,Desk Chair,Furniture,4.0,7500.0,30000,South,Cash
+ORD0011,2026-04-14,Sneha Patel,Monitor,Electronics,2.0,12000.0,24000,South,Credit Card
+ORD0012,2026-07-10,Priya Singh,Monitor,Electronics,6.0,12000.0,72000,South,UPI
+ORD0013,2026-07-09,Sneha Patel,Mouse,electronics,2.0,800.0,1600,South,UPI
+ORD0014,2026-02-09,Vikram Gupta,Webcam,Electronics,6.0,3500.0,21000,West,Bank Transfer
+ORD0015,2026-02-22,Neha Sharma,Mouse,Accessories,7.0,800.0,5600,South,Cash
+ORD0016,2026-01-15,Aarav Sharma,Webcam,Electronics,5.0,3500.0,17500,North,Cash
+ORD0017,2026-05-16,Neha Sharma,Office Desk,Furniture,1.0,11000.0,11000,East,Debit Card
+ORD0018,2026-05-16,Rahul Verma,Keyboard,Accessories,1.0,1500.0,1500,East,Cash
+ORD0019,2026-02-10,Rohit Khan,Headphones,Accessories,2.0,2500.0,5000,,UPI
+ORD0020,2026-02-17,Rohit Khan,Mouse,Accessories,1.0,800.0,800,East,Bank Transfer
+ORD0021,2026-04-14,Ananya Jain,Keyboard,Accessories,4.0,1500.0,6000,East,Debit Card
+ORD0022,2026-04-11,Rahul Verma,Laptop,Electronics,3.0,55000.0,165000,North,Bank Transfer
+ORD0023,2026-05-22,Rohit Khan,USB Drive,Accessories,7.0,700.0,4900,East,Cash
+ORD0024,2026-05-04,Rahul Verma,USB Drive,Accessories,2.0,700.0,1400,East,Cash
+ORD0025,2026-04-06,Sneha Patel,Monitor,Electronics,5.0,12000.0,60000,South,Bank Transfer
+ORD0026,2026-05-23,Sneha Patel,Desk Chair,Furniture,7.0,7500.0,52500,North,Debit Card
+ORD0027,2026-01-28,Priya Singh,Keyboard, ELECTRONICS ,6.0,1500.0,9000,South,Bank Transfer
+ORD0028,2026-05-14,Sneha Patel,Webcam,Electronics,5.0,3500.0,17500,South,Debit Card
+ORD0029,2026-04-02,Karan Mehta,USB Drive,Accessories,7.0,700.0,4900,East,Cash
+ORD0030,2026-01-27,Karan Mehta,Laptop,Electronics,1.0,55000.0,55000,West,
+ORD0031,2026-04-13,Ananya Jain,Webcam,Electronics,3.0,3500.0,10500,West,Debit Card
+ORD0032,2026-06-14,Aarav Sharma,Webcam,Electronics,6.0,3500.0,21000,East,Credit Card
+ORD0033,2026-02-28,Ananya Jain,Office Desk,Furniture,7.0,11000.0,77000,West,Cash
+ORD0034,2026-03-03,Aarav Sharma,Monitor,Electronics,1.0,12000.0,12000,South,UPI
+ORD0035,2026-05-11,Aarav Sharma,Desk Chair,Furniture,2.0,7500.0,15000,North,Cash
+ORD0036,2026-07-06,Aarav Sharma,Office Desk,Furniture,1.0,11000.0,11000,South,Credit Card
+ORD0037,2026-05-09,Rahul Verma,Printer,Electronics,7.0,9000.0,63000,South,Credit Card
+ORD0038,2026-06-09,Ananya Jain,Headphones,Accessories,4.0,2500.0,10000,north,UPI
+ORD0039,2026-07-03,Aarav Sharma,Desk Chair,Furniture,3.0,7500.0,22500,East,Bank Transfer
+ORD0040,2026-07-17,Ananya Jain,Monitor,Electronics,2.0,12000.0,24000,East,Cash
+ORD0041,2026-07-06,Ananya Jain,Webcam,Electronics,4.0,3500.0,14000,West,Bank Transfer
+ORD0042,2026-07-06,Sneha Patel,,Accessories,4.0,1500.0,6000,East,Credit Card
+ORD0043,2026-05-27,Sneha Patel,Keyboard,Accessories,7.0,1500.0,10500,West,UPI
+ORD0044,2026-06-17,Rohit Khan,Webcam,Electronics,1.0,3500.0,3500,South,Cash
+ORD0045,2026-06-27,Rohit Khan,Webcam,Electronics,1.0,3500.0,3500,East,Credit Card
+ORD0046,2026-05-24,Pooja Verma,Keyboard,Accessories,7.0,1500.0,10500,West,Cash
+ORD0047,2026-04-23,Priya Singh,Monitor,Electronics,4.0,12000.0,48000,North,UPI
+ORD0048,2026-06-09,Rohit Khan,Headphones,Accessories,5.0,2500.0,12500,North,Cash
+ORD0049,2026-02-17,Rahul Verma,Keyboard,Accessories,3.0,1500.0,4500,West,upi
+ORD0050,2026-03-16,Aarav Sharma,Office Desk,Furniture,4.0,11000.0,44000,West,UPI
+ORD0051,2026-04-22,Karan Mehta,Printer,Electronics,4.0,9000.0,36000,East,Cash
+ORD0052,2026-03-23,Priya Singh,Mouse,Accessories,6.0,800.0,4800,South,Debit Card
+ORD0053,2026-06-10,Sneha Patel,Webcam,Electronics,4.0,3500.0,14000,North,Bank Transfer
+ORD0054,2026-07-14,Aarav Sharma,Monitor,Electronics,7.0,12000.0,84000,West,Cash
+ORD0055,2026-04-29,Ananya Jain,Keyboard,Accessories,6.0,1500.0,9000,South,Bank Transfer
+ORD0056,2026-01-08,Priya Singh,Keyboard,Accessories,,1500.0,9000,North,Cash
+ORD0057,2026-03-02,Rahul Verma,Laptop,Electronics,5.0,55000.0,275000,West,Debit Card
+ORD0058,2026-06-21,Vikram Gupta,Laptop,Electronics,1.0,55000.0,55000,South,Debit Card
+ORD0059,2026-01-24,Aarav Sharma,Webcam,Electronics,5.0,3500.0,17500,South,Bank Transfer
+ORD0060,2026-04-26,Vikram Gupta,Keyboard,Accessories,4.0,1500.0,6000,West,Cash
+ORD0061,2026-01-25,Pooja Verma,Keyboard,Accessories,2.0,1500.0,3000,East,Credit Card
+ORD0062,2026-01-24,Priya Singh,Keyboard,Accessories,6.0,1500.0,9000,West,Credit Card
+ORD0063,2026-01-17,Neha Sharma,USB Drive,Accessories,2.0,700.0,1400,North,Cash
+ORD0064,2026-06-19,Rohit Khan,Printer,Electronics,7.0,9000.0,63000, WEST ,Debit Card
+ORD0065,2026-06-01,Pooja Verma,Mouse,Accessories,1.0,800.0,800,East,Cash
+ORD0066,2026-01-20,Aarav Sharma,Monitor,Electronics,5.0,12000.0,60000,West,UPI
+ORD0067,2026-05-23,Priya Singh,Keyboard,Accessories,7.0,1500.0,10500,South,Debit Card
+ORD0068,2026-03-04,Ananya Jain,Webcam,Electronics,2.0,3500.0,7000,South,Credit Card
+ORD0069,2026-06-29,Pooja Verma,Printer,Electronics,1.0,9000.0,9000,South,Debit Card
+ORD0070,2026-01-08,Vikram Gupta,Headphones,Accessories,1.0,2500.0,2500,West,UPI
+ORD0071,2026-07-15,Ananya Jain,Headphones,Accessories,7.0,2500.0,17500,North,UPI
+ORD0072,2026-06-17,Sneha Patel,Keyboard,Accessories,7.0,1500.0,10500,West,Bank Transfer
+ORD0073,2026-04-16,Rahul Verma,Mouse,Accessories,4.0,,3200,North,Debit Card
+ORD0074,2026-03-31,Vikram Gupta,USB Drive,Accessories,7.0,700.0,4900,South,Bank Transfer
+ORD0075,2026-05-17,Vikram Gupta,Desk Chair,Furniture,7.0,7500.0,52500,North,Credit Card
+ORD0076,2026-02-03,Ananya Jain,USB Drive,Accessories,1.0,700.0,700,West,Cash
+ORD0077,2026-04-27,Aarav Sharma,Office Desk,Furniture,5.0,11000.0,55000,West,Bank Transfer
+ORD0078,2026-03-10,Ananya Jain,Desk Chair,Furniture,7.0,7500.0,52500,North,Debit Card
+ORD0079,2026-03-27,Karan Mehta,USB Drive,Accessories,3.0,700.0,2100,North,UPI
+ORD0080,2026-04-04,Sneha Patel,Headphones,Accessories,7.0,2500.0,17500,North,UPI
+ORD0081,2026-06-25,Vikram Gupta,USB Drive,Accessories,2.0,700.0,1400,East,UPI
+ORD0082,2026-04-11,Rohit Khan,Laptop,Electronics,6.0,55000.0,330000,South,Credit Card
+ORD0083,2026-04-10,Priya Singh,Printer,Electronics,5.0,9000.0,45000,West,Credit Card
+ORD0084,2026-07-05,Aarav Sharma,USB Drive,Accessories,3.0,700.0,2100,West,Bank Transfer
+ORD0085,2026-01-02,Aarav Sharma,Monitor,Electronics,7.0,12000.0,84000,West,Credit card
+ORD0086,2026-06-27,Rahul Verma,Monitor,Electronics,4.0,12000.0,48000,West,Cash
+ORD0087,2026-06-28,Vikram Gupta,Laptop,Electronics,5.0,55000.0,275000,West,Debit Card
+ORD0088,2026-06-17,Pooja Verma,Laptop,Electronics,1.0,55000.0,55000,East,UPI
+ORD0089,2026-02-04,Rohit Khan,Mouse,Accessories,5.0,800.0,4000,North,Credit Card
+ORD0090,2026-06-03,Pooja Verma,Office Desk,Furniture,5.0,11000.0,55000,South,Credit Card
+ORD0091,2026-05-15,Sneha Patel,Keyboard,Accessories,1.0,1500.0,1500,South,Bank Transfer
+ORD0092,2026-03-16,Neha Sharma,Mouse,Accessories,5,800.0,12500,West,Cash
+ORD0093,2026-06-13,Pooja Verma,Headphones,Accessories,5.0,2500.0,12500,North,Cash
+ORD0094,2026-06-26,Rahul Verma,Office Desk,Furniture,3.0,11000.0,33000,West,UPI
+ORD0095,2026-04-06,Neha Sharma,Mouse,Accessories,1.0,2500,800,East,Bank Transfer
+ORD0096,2026-01-13,Rohit Khan,Laptop,Electronics,7.0,55000.0,385000,North,Debit Card
+ORD0097,2026-01-17, ,Webcam,Electronics,6.0,3500.0,21000,South,UPI
+ORD0098,2026-05-21,Rahul Verma,Webcam,Electronics,6.0,3500.0,21000,North,UPI
+ORD0099,2026-03-17,Karan Mehta,Webcam,Electronics,3.0,3500.0,10500,East,UPI
+ORD0100,2026-04-21,Vikram Gupta,Monitor,Electronics,3.0,12000.0,36000, ,Debit Card
+ORD0011,2026-04-14,Sneha Patel,Monitor,Electronics,2.0,12000.0,24000,South,Credit Card
+ORD0036,2026-07-06,Aarav Sharma,Office Desk,Furniture,1.0,11000.0,11000,South,Credit Card
+ORD0071,2026-07-15,Ananya Jain,Headphones,Accessories,7.0,2500.0,17500,North,UPI
